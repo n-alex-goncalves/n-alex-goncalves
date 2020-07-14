@@ -8,5 +8,4 @@ This is my place to learn and improve my coding :blush:
 - 💬 Ask me about university in the UK
 - 📫 How to reach me: [link to LinkedIn!](https://www.linkedin.com/in/nuno-alexandre-goncalves-925b18162/)
 - 😄 Pronouns: he/him
-
 ```
