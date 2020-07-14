@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![Banner](https://github.com/NunoAGoncalves/NunoAGoncalves/blob/master/Banner.PNG)
 
 This is my place to learn and improve my coding :blush:	
