@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+This is my place to learn and improve my coding :blush:	
+
 - 🔭 I’m currently working on #100DaysOfCode + LeetCode questions
 - 🌱 I’m currently learning Finite State Atuomaton + reading Introduction to the Theory of Computation
 - 💬 Ask me about university in the UK
