@@ -2,8 +2,7 @@
 <div align="center">
 <img src=https://github.com/NunoAGoncalves/NunoAGoncalves/blob/master/Banner.PNG>
 </div>
-
-------------------
+_______________________________________________________
 
 - 🔭 I’m currently working on #100DaysOfCode + LeetCode questions
 - 🌱 I’m currently learning Finite State Atuomaton + reading Introduction to the Theory of Computation
