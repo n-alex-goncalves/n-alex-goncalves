@@ -1,6 +1,4 @@
-<div align="center">
 ![Banner](https://github.com/NunoAGoncalves/NunoAGoncalves/blob/master/Banner.PNG)
-</div>
 ------------------
 
 - 🔭 I’m currently working on #100DaysOfCode + LeetCode questions
