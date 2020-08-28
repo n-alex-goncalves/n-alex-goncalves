@@ -1,6 +1,7 @@
-<div align="center">
-<img src=https://github.com/NunoAGoncalves/NunoAGoncalves/blob/master/Banner.PNG>
-</div>
+# Hi, I'm Nuno Goncalves! 👋🏽
+
+**Computer Science** student at **The University of North Carolina at Chapel Hill**.
+I am a **Computer Science** student at **The University of Bath**.
 
 - 🔭 I’m currently working on the LeetCode question grind :muscle:
 - 🌱 I’m currently learning Finite State Automaton && reading Introduction to the Theory of Computation
