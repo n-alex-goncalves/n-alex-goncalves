@@ -1,4 +1,4 @@
-# Yo, I'm Nuno Goncalves! 
+# Hi, I'm Nuno Goncalves! 
 
 I am a **Computer Science** student at **The University of Bath**. 
 
