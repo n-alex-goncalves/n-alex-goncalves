@@ -2,5 +2,6 @@
 
 I am a **Computer Science student** at **The University of Bath**. 
 
-- 📫 How to reach me: [LinkedIn!](https://www.linkedin.com/in/goncalves-925b18162/)
-- 😄 Pronouns: he/him
+- 🌱 I’m currently reading/learning: The Pragmatic Programmer: From Journeyman to Master
+- 📫 How to reach me: [My LinkedIn](https://www.linkedin.com/in/n-alexandre-goncalves/)
+- 😄 Pronouns: he/him/his
