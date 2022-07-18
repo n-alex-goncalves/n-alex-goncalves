@@ -1,7 +1,10 @@
-# Hi, I'm Nuno Goncalves! 
+# Hi, I'm Nuno Alexandre Goncalves! 👋🏿
 
-I am a **Computer Science student** at **The University of Bath**. 
+![](https://komarev.com/ghpvc/?username=NunoAGoncalves)
 
-- 🌱 I’m currently reading/learning: The Pragmatic Programmer: From Journeyman to Master
-- 📫 How to reach me: [My LinkedIn](https://www.linkedin.com/in/n-alexandre-goncalves/)
+I am a **Computer Science Graduate** from **The University of Bath, UK** 🛀. 
+
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/n-alexandre-goncalves/)
 - 😄 Pronouns: he/him/his
+
+
