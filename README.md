@@ -1,6 +1,6 @@
 # Hi, I'm Nuno Alexandre Goncalves! 👋🏿
 
-![](https://komarev.com/ghpvc/?username=NunoAGoncalves) [![GitHub followers](https://img.shields.io/github/followers/NunoAGoncalves?style=social)](https://www.github.com/NunoAGoncalves)
+![](https://komarev.com/ghpvc/?username=NunoAGoncalves) [![GitHub followers](https://img.shields.io/github/followers/n-goncalves1?style=social)](https://www.github.com/n-goncalves1)
 
 I am a **Computer Science Graduate** from **The University of Bath, UK** 🛀. 
 
