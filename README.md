@@ -8,4 +8,4 @@ I am a first-class honours Computer Science Alumni from the University of Bath, 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/n-alex-goncalves/)
 - 😄 Pronouns: he/him
 
-Learn more about my projects and I at my website: https://n-alex-goncalves.github.io/PersonalPage/
+Learn more about my projects and I at my website: [Portfolio & Projects](https://n-alex-goncalves.github.io/PersonalPage/)
